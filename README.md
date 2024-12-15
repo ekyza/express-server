@@ -21,5 +21,6 @@ Clone the repository:
    ```bash
    git clone https://github.com/your-username/express-server.git
    cd express-server-starter
-   npx npm-check-updates -u && npm install
+   npx npm-check-updates -u
+   npm install
    
