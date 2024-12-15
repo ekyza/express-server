@@ -6,7 +6,6 @@ An **Express.js** starter template equipped with essential tools and configurati
 
 - **Express.js**: Fast and minimalist web framework for Node.js.
 - **TypeScript**: Strongly typed JavaScript for improved code quality and maintainability.
-- **Environment Variables**: Managed using `dotenv`.
 - **CORS Support**: Easily handle cross-origin requests.
 - **Hot Reloading**: Seamless development experience using `nodemon`.
 
@@ -17,10 +16,10 @@ An **Express.js** starter template equipped with essential tools and configurati
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/express-server-starter.git
+   git clone https://github.com/your-username/express-server.git
    cd express-server-starter
    npx npm-check-updates -u && npm install
    
