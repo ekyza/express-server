@@ -20,7 +20,7 @@ Clone the repository:
 
    ```bash
    git clone https://github.com/ekyza/express-server.git
-   cd express-server-starter
+   cd express-server
    npx npm-check-updates -u
    npm install
    
